@@ -1,6 +1,5 @@
 fastapi
 uvicorn
-joblib
+joblib==1.3.2
 numpy
-scikit-learn
-requests
+scikit-learn==1.3.0
