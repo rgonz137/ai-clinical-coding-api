@@ -2,6 +2,16 @@ from fastapi import FastAPI
 from pydantic import BaseModel
 import joblib
 import numpy as np
+import os
+import requests
+
+MODEL_URL = "https://drive.google.com/uc?export=download&id=1QzqxhEn1oJ9Cx4bNd5yLQ3z2JUnqS1sx"
+
+if not os.path.exists("model.pkl"):
+    print("Downloading model...")
+    r = requests.get(MODEL_URL)
+    with open("model.pkl", "wb") as f:
+        f.write(r.content)
 
 model = joblib.load("model.pkl")
 vectorizer = joblib.load("vectorizer.pkl")
