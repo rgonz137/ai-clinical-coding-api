@@ -1,4 +1,14 @@
 __pycache__/
 *.pyc
 .env
+.venv/
+venv/
+.DS_Store
+.vscode/
+.idea/
+
+# Never commit model artifacts — they come from Hugging Face at runtime
 model.pkl
+vectorizer.pkl
+cpt_encoder.pkl
+artifacts/
