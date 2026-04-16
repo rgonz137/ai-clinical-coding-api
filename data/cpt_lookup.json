@@ -1,0 +1,1182 @@
+{
+  "10060": {
+    "label": "Incision and drainage of abscess",
+    "related_icd10": [
+      {
+        "code": "L0290",
+        "label": "L0290",
+        "support": 0.333
+      },
+      {
+        "code": "L0219",
+        "label": "L0219",
+        "support": 0.333
+      },
+      {
+        "code": "K610",
+        "label": "Anal abscess",
+        "support": 0.333
+      }
+    ]
+  },
+  "11100": {
+    "label": "Skin biopsy single lesion",
+    "related_icd10": [
+      {
+        "code": "L570",
+        "label": "Actinic keratosis",
+        "support": 0.333
+      },
+      {
+        "code": "D239",
+        "label": "Other benign neoplasm of skin, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "C449",
+        "label": "C449",
+        "support": 0.333
+      }
+    ]
+  },
+  "12001": {
+    "label": "Simple wound repair 2.5 cm or less",
+    "related_icd10": [
+      {
+        "code": "S019",
+        "label": "S019",
+        "support": 0.333
+      },
+      {
+        "code": "S619",
+        "label": "S619",
+        "support": 0.333
+      },
+      {
+        "code": "T149",
+        "label": "T149",
+        "support": 0.333
+      }
+    ]
+  },
+  "17000": {
+    "label": "Destruction of premalignant lesion",
+    "related_icd10": [
+      {
+        "code": "L570",
+        "label": "Actinic keratosis",
+        "support": 0.333
+      },
+      {
+        "code": "L578",
+        "label": "Oth skin changes due to chr expsr to nonionizing radiation",
+        "support": 0.333
+      },
+      {
+        "code": "D049",
+        "label": "Carcinoma in situ of skin, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "27447": {
+    "label": "Total knee arthroplasty",
+    "related_icd10": [
+      {
+        "code": "M179",
+        "label": "Osteoarthritis of knee, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "M1712",
+        "label": "Unilateral primary osteoarthritis, left knee",
+        "support": 0.333
+      },
+      {
+        "code": "Z966",
+        "label": "Z966",
+        "support": 0.333
+      }
+    ]
+  },
+  "29881": {
+    "label": "Arthroscopy knee with meniscectomy",
+    "related_icd10": [
+      {
+        "code": "M239",
+        "label": "M239",
+        "support": 0.333
+      },
+      {
+        "code": "S839",
+        "label": "S839",
+        "support": 0.333
+      },
+      {
+        "code": "M179",
+        "label": "Osteoarthritis of knee, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "31500": {
+    "label": "Endotracheal intubation, emergency",
+    "related_icd10": [
+      {
+        "code": "J9600",
+        "label": "Acute respiratory failure, unsp w hypoxia or hypercapnia",
+        "support": 0.333
+      },
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "A419",
+        "label": "Sepsis, unspecified organism",
+        "support": 0.333
+      }
+    ]
+  },
+  "36415": {
+    "label": "Venipuncture for blood collection",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "I10",
+        "label": "Essential (primary) hypertension",
+        "support": 0.333
+      },
+      {
+        "code": "E119",
+        "label": "Type 2 diabetes mellitus without complications",
+        "support": 0.333
+      }
+    ]
+  },
+  "43239": {
+    "label": "Upper GI endoscopy with biopsy",
+    "related_icd10": [
+      {
+        "code": "K259",
+        "label": "Gastric ulcer, unsp as acute or chronic, w/o hemor or perf",
+        "support": 0.333
+      },
+      {
+        "code": "K297",
+        "label": "K297",
+        "support": 0.333
+      },
+      {
+        "code": "K570",
+        "label": "K570",
+        "support": 0.333
+      }
+    ]
+  },
+  "45378": {
+    "label": "Colonoscopy diagnostic",
+    "related_icd10": [
+      {
+        "code": "K639",
+        "label": "Disease of intestine, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "K578",
+        "label": "K578",
+        "support": 0.333
+      },
+      {
+        "code": "D129",
+        "label": "Benign neoplasm of anus and anal canal",
+        "support": 0.333
+      }
+    ]
+  },
+  "47562": {
+    "label": "Laparoscopic cholecystectomy",
+    "related_icd10": [
+      {
+        "code": "K800",
+        "label": "K800",
+        "support": 0.333
+      },
+      {
+        "code": "K810",
+        "label": "Acute cholecystitis",
+        "support": 0.333
+      },
+      {
+        "code": "K802",
+        "label": "K802",
+        "support": 0.333
+      }
+    ]
+  },
+  "49505": {
+    "label": "Repair inguinal hernia initial",
+    "related_icd10": [
+      {
+        "code": "K409",
+        "label": "K409",
+        "support": 0.333
+      },
+      {
+        "code": "K400",
+        "label": "K400",
+        "support": 0.333
+      },
+      {
+        "code": "K419",
+        "label": "K419",
+        "support": 0.333
+      }
+    ]
+  },
+  "52000": {
+    "label": "Cystoscopy diagnostic",
+    "related_icd10": [
+      {
+        "code": "N400",
+        "label": "Benign prostatic hyperplasia without lower urinary tract symptoms",
+        "support": 0.333
+      },
+      {
+        "code": "N390",
+        "label": "Urinary tract infection, site not specified",
+        "support": 0.333
+      },
+      {
+        "code": "C679",
+        "label": "Malignant neoplasm of bladder, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "70450": {
+    "label": "CT head without contrast",
+    "related_icd10": [
+      {
+        "code": "S0990",
+        "label": "S0990",
+        "support": 0.333
+      },
+      {
+        "code": "I639",
+        "label": "Cerebral infarction, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "G409",
+        "label": "G409",
+        "support": 0.333
+      }
+    ]
+  },
+  "70553": {
+    "label": "MRI brain with and without contrast",
+    "related_icd10": [
+      {
+        "code": "G359",
+        "label": "G359",
+        "support": 0.333
+      },
+      {
+        "code": "G409",
+        "label": "G409",
+        "support": 0.333
+      },
+      {
+        "code": "I639",
+        "label": "Cerebral infarction, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "71010": {
+    "label": "Chest X-ray, single view",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 1.0
+      }
+    ]
+  },
+  "71020": {
+    "label": "Chest X-ray, two views",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.25
+      },
+      {
+        "code": "J154",
+        "label": "Pneumonia due to other streptococci",
+        "support": 0.25
+      },
+      {
+        "code": "J158",
+        "label": "Pneumonia due to other specified bacteria",
+        "support": 0.25
+      }
+    ]
+  },
+  "71250": {
+    "label": "CT chest without contrast",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "J960",
+        "label": "J960",
+        "support": 0.333
+      },
+      {
+        "code": "J9800",
+        "label": "J9800",
+        "support": 0.333
+      }
+    ]
+  },
+  "71270": {
+    "label": "CT chest with contrast",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "C349",
+        "label": "C349",
+        "support": 0.333
+      },
+      {
+        "code": "J9800",
+        "label": "J9800",
+        "support": 0.333
+      }
+    ]
+  },
+  "73060": {
+    "label": "X-ray humerus minimum 2 views",
+    "related_icd10": [
+      {
+        "code": "S422",
+        "label": "S422",
+        "support": 0.333
+      },
+      {
+        "code": "M8500",
+        "label": "Fibrous dysplasia (monostotic), unspecified site",
+        "support": 0.333
+      },
+      {
+        "code": "S490",
+        "label": "S490",
+        "support": 0.333
+      }
+    ]
+  },
+  "73721": {
+    "label": "MRI knee without contrast",
+    "related_icd10": [
+      {
+        "code": "M179",
+        "label": "Osteoarthritis of knee, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "S839",
+        "label": "S839",
+        "support": 0.333
+      },
+      {
+        "code": "M234",
+        "label": "M234",
+        "support": 0.333
+      }
+    ]
+  },
+  "74177": {
+    "label": "CT abdomen and pelvis with contrast",
+    "related_icd10": [
+      {
+        "code": "K359",
+        "label": "K359",
+        "support": 0.333
+      },
+      {
+        "code": "K570",
+        "label": "K570",
+        "support": 0.333
+      },
+      {
+        "code": "R1000",
+        "label": "R1000",
+        "support": 0.333
+      }
+    ]
+  },
+  "74400": {
+    "label": "Urography intravenous",
+    "related_icd10": [
+      {
+        "code": "N200",
+        "label": "Calculus of kidney",
+        "support": 0.333
+      },
+      {
+        "code": "N390",
+        "label": "Urinary tract infection, site not specified",
+        "support": 0.333
+      },
+      {
+        "code": "Q620",
+        "label": "Congenital hydronephrosis",
+        "support": 0.333
+      }
+    ]
+  },
+  "76700": {
+    "label": "Abdominal ultrasound complete",
+    "related_icd10": [
+      {
+        "code": "K800",
+        "label": "K800",
+        "support": 0.333
+      },
+      {
+        "code": "K750",
+        "label": "Abscess of liver",
+        "support": 0.333
+      },
+      {
+        "code": "R1000",
+        "label": "R1000",
+        "support": 0.333
+      }
+    ]
+  },
+  "77387": {
+    "label": "Radiation treatment delivery",
+    "related_icd10": [
+      {
+        "code": "C349",
+        "label": "C349",
+        "support": 0.333
+      },
+      {
+        "code": "C509",
+        "label": "C509",
+        "support": 0.333
+      },
+      {
+        "code": "C189",
+        "label": "Malignant neoplasm of colon, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "80048": {
+    "label": "Basic metabolic panel",
+    "related_icd10": [
+      {
+        "code": "E119",
+        "label": "Type 2 diabetes mellitus without complications",
+        "support": 0.333
+      },
+      {
+        "code": "N189",
+        "label": "Chronic kidney disease, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "E876",
+        "label": "Hypokalemia",
+        "support": 0.333
+      }
+    ]
+  },
+  "80053": {
+    "label": "Comprehensive metabolic panel",
+    "related_icd10": [
+      {
+        "code": "E119",
+        "label": "Type 2 diabetes mellitus without complications",
+        "support": 0.333
+      },
+      {
+        "code": "N189",
+        "label": "Chronic kidney disease, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "I10",
+        "label": "Essential (primary) hypertension",
+        "support": 0.333
+      }
+    ]
+  },
+  "81001": {
+    "label": "Urinalysis automated with microscopy",
+    "related_icd10": [
+      {
+        "code": "N390",
+        "label": "Urinary tract infection, site not specified",
+        "support": 0.333
+      },
+      {
+        "code": "N400",
+        "label": "Benign prostatic hyperplasia without lower urinary tract symptoms",
+        "support": 0.333
+      },
+      {
+        "code": "R800",
+        "label": "Isolated proteinuria",
+        "support": 0.333
+      }
+    ]
+  },
+  "82947": {
+    "label": "Glucose blood test",
+    "related_icd10": [
+      {
+        "code": "E119",
+        "label": "Type 2 diabetes mellitus without complications",
+        "support": 0.333
+      },
+      {
+        "code": "E109",
+        "label": "Type 1 diabetes mellitus without complications",
+        "support": 0.333
+      },
+      {
+        "code": "E162",
+        "label": "Hypoglycemia, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "83036": {
+    "label": "Hemoglobin A1c",
+    "related_icd10": [
+      {
+        "code": "E119",
+        "label": "Type 2 diabetes mellitus without complications",
+        "support": 0.333
+      },
+      {
+        "code": "E109",
+        "label": "Type 1 diabetes mellitus without complications",
+        "support": 0.333
+      },
+      {
+        "code": "Z7901",
+        "label": "Z7901",
+        "support": 0.333
+      }
+    ]
+  },
+  "83735": {
+    "label": "Magnesium blood test",
+    "related_icd10": [
+      {
+        "code": "E834",
+        "label": "E834",
+        "support": 0.333
+      },
+      {
+        "code": "E835",
+        "label": "E835",
+        "support": 0.333
+      },
+      {
+        "code": "N189",
+        "label": "Chronic kidney disease, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "83970": {
+    "label": "Parathyroid hormone PTH",
+    "related_icd10": [
+      {
+        "code": "E210",
+        "label": "Primary hyperparathyroidism",
+        "support": 0.333
+      },
+      {
+        "code": "E211",
+        "label": "Secondary hyperparathyroidism, not elsewhere classified",
+        "support": 0.333
+      },
+      {
+        "code": "E830",
+        "label": "E830",
+        "support": 0.333
+      }
+    ]
+  },
+  "84443": {
+    "label": "Thyroid stimulating hormone",
+    "related_icd10": [
+      {
+        "code": "E039",
+        "label": "Hypothyroidism, unspecified",
+        "support": 0.667
+      },
+      {
+        "code": "E059",
+        "label": "E059",
+        "support": 0.333
+      }
+    ]
+  },
+  "84550": {
+    "label": "Uric acid blood",
+    "related_icd10": [
+      {
+        "code": "M100",
+        "label": "M100",
+        "support": 0.333
+      },
+      {
+        "code": "M109",
+        "label": "Gout, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "E790",
+        "label": "Hyperuricemia w/o signs of inflam arthrit and tophaceous dis",
+        "support": 0.333
+      }
+    ]
+  },
+  "85025": {
+    "label": "Complete blood count with differential",
+    "related_icd10": [
+      {
+        "code": "D649",
+        "label": "Anemia, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "D500",
+        "label": "Iron deficiency anemia secondary to blood loss (chronic)",
+        "support": 0.333
+      },
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      }
+    ]
+  },
+  "86900": {
+    "label": "Blood typing ABO",
+    "related_icd10": [
+      {
+        "code": "Z513",
+        "label": "Z513",
+        "support": 0.333
+      },
+      {
+        "code": "D649",
+        "label": "Anemia, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "O369",
+        "label": "O369",
+        "support": 0.333
+      }
+    ]
+  },
+  "87046": {
+    "label": "Stool culture",
+    "related_icd10": [
+      {
+        "code": "A099",
+        "label": "A099",
+        "support": 0.333
+      },
+      {
+        "code": "K529",
+        "label": "Noninfective gastroenteritis and colitis, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "A049",
+        "label": "Bacterial intestinal infection, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "87070": {
+    "label": "Culture bacterial aerobic",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "A419",
+        "label": "Sepsis, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "L0890",
+        "label": "L0890",
+        "support": 0.333
+      }
+    ]
+  },
+  "87077": {
+    "label": "Blood culture aerobic",
+    "related_icd10": [
+      {
+        "code": "A419",
+        "label": "Sepsis, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "A400",
+        "label": "Sepsis due to streptococcus, group A",
+        "support": 0.333
+      }
+    ]
+  },
+  "90832": {
+    "label": "Psychotherapy 30 minutes",
+    "related_icd10": [
+      {
+        "code": "F329",
+        "label": "Major depressive disorder, single episode, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "F419",
+        "label": "Anxiety disorder, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "F410",
+        "label": "Panic disorder without agoraphobia",
+        "support": 0.333
+      }
+    ]
+  },
+  "90837": {
+    "label": "Psychotherapy 60 minutes",
+    "related_icd10": [
+      {
+        "code": "F329",
+        "label": "Major depressive disorder, single episode, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "F419",
+        "label": "Anxiety disorder, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "F319",
+        "label": "Bipolar disorder, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "92004": {
+    "label": "Ophthalmological exam new patient",
+    "related_icd10": [
+      {
+        "code": "H269",
+        "label": "Unspecified cataract",
+        "support": 0.333
+      },
+      {
+        "code": "H409",
+        "label": "Unspecified glaucoma",
+        "support": 0.333
+      },
+      {
+        "code": "H359",
+        "label": "Unspecified retinal disorder",
+        "support": 0.333
+      }
+    ]
+  },
+  "92134": {
+    "label": "Optic nerve head imaging",
+    "related_icd10": [
+      {
+        "code": "H409",
+        "label": "Unspecified glaucoma",
+        "support": 0.333
+      },
+      {
+        "code": "H479",
+        "label": "Unspecified disorder of visual pathways",
+        "support": 0.333
+      },
+      {
+        "code": "H369",
+        "label": "H369",
+        "support": 0.333
+      }
+    ]
+  },
+  "92928": {
+    "label": "Percutaneous coronary intervention",
+    "related_icd10": [
+      {
+        "code": "I214",
+        "label": "Non-ST elevation (NSTEMI) myocardial infarction",
+        "support": 0.333
+      },
+      {
+        "code": "I259",
+        "label": "Chronic ischemic heart disease, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "I248",
+        "label": "Other forms of acute ischemic heart disease",
+        "support": 0.333
+      }
+    ]
+  },
+  "93000": {
+    "label": "Electrocardiogram routine with interpretation",
+    "related_icd10": [
+      {
+        "code": "I10",
+        "label": "Essential (primary) hypertension",
+        "support": 0.333
+      },
+      {
+        "code": "I489",
+        "label": "I489",
+        "support": 0.333
+      },
+      {
+        "code": "I472",
+        "label": "Ventricular tachycardia",
+        "support": 0.333
+      }
+    ]
+  },
+  "93010": {
+    "label": "ECG interpretation and report",
+    "related_icd10": [
+      {
+        "code": "I214",
+        "label": "Non-ST elevation (NSTEMI) myocardial infarction",
+        "support": 0.333
+      },
+      {
+        "code": "I489",
+        "label": "I489",
+        "support": 0.333
+      },
+      {
+        "code": "I509",
+        "label": "Heart failure, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "93015": {
+    "label": "Cardiovascular stress test",
+    "related_icd10": [
+      {
+        "code": "I259",
+        "label": "Chronic ischemic heart disease, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "I208",
+        "label": "Other forms of angina pectoris",
+        "support": 0.333
+      },
+      {
+        "code": "I214",
+        "label": "Non-ST elevation (NSTEMI) myocardial infarction",
+        "support": 0.333
+      }
+    ]
+  },
+  "93224": {
+    "label": "Holter monitor 24 hours",
+    "related_icd10": [
+      {
+        "code": "I489",
+        "label": "I489",
+        "support": 0.333
+      },
+      {
+        "code": "I472",
+        "label": "Ventricular tachycardia",
+        "support": 0.333
+      },
+      {
+        "code": "I499",
+        "label": "Cardiac arrhythmia, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "93306": {
+    "label": "Echocardiography with Doppler",
+    "related_icd10": [
+      {
+        "code": "I509",
+        "label": "Heart failure, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "I350",
+        "label": "Nonrheumatic aortic (valve) stenosis",
+        "support": 0.333
+      },
+      {
+        "code": "I420",
+        "label": "Dilated cardiomyopathy",
+        "support": 0.333
+      }
+    ]
+  },
+  "94664": {
+    "label": "Aerosol or vapor inhalation treatment",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "J449",
+        "label": "Chronic obstructive pulmonary disease, unspecified",
+        "support": 0.333
+      },
+      {
+        "code": "J459",
+        "label": "J459",
+        "support": 0.333
+      }
+    ]
+  },
+  "94760": {
+    "label": "Pulse oximetry, single determination",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.5
+      },
+      {
+        "code": "J9600",
+        "label": "Acute respiratory failure, unsp w hypoxia or hypercapnia",
+        "support": 0.5
+      }
+    ]
+  },
+  "94761": {
+    "label": "Pulse oximetry, multiple determinations",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "J9600",
+        "label": "Acute respiratory failure, unsp w hypoxia or hypercapnia",
+        "support": 0.333
+      },
+      {
+        "code": "J9610",
+        "label": "Chronic respiratory failure, unsp w hypoxia or hypercapnia",
+        "support": 0.333
+      }
+    ]
+  },
+  "95819": {
+    "label": "EEG routine awake and asleep",
+    "related_icd10": [
+      {
+        "code": "G409",
+        "label": "G409",
+        "support": 0.333
+      },
+      {
+        "code": "R5500",
+        "label": "R5500",
+        "support": 0.333
+      },
+      {
+        "code": "G4000",
+        "label": "G4000",
+        "support": 0.333
+      }
+    ]
+  },
+  "95860": {
+    "label": "Needle electromyography one extremity",
+    "related_icd10": [
+      {
+        "code": "G122",
+        "label": "G122",
+        "support": 0.333
+      },
+      {
+        "code": "G600",
+        "label": "Hereditary motor and sensory neuropathy",
+        "support": 0.333
+      },
+      {
+        "code": "M797",
+        "label": "Fibromyalgia",
+        "support": 0.333
+      }
+    ]
+  },
+  "96413": {
+    "label": "Chemotherapy infusion 1 hour",
+    "related_icd10": [
+      {
+        "code": "C349",
+        "label": "C349",
+        "support": 0.333
+      },
+      {
+        "code": "C509",
+        "label": "C509",
+        "support": 0.333
+      },
+      {
+        "code": "C189",
+        "label": "Malignant neoplasm of colon, unspecified",
+        "support": 0.333
+      }
+    ]
+  },
+  "97035": {
+    "label": "Ultrasound therapy",
+    "related_icd10": [
+      {
+        "code": "M5416",
+        "label": "Radiculopathy, lumbar region",
+        "support": 0.333
+      },
+      {
+        "code": "M797",
+        "label": "Fibromyalgia",
+        "support": 0.333
+      },
+      {
+        "code": "S839",
+        "label": "S839",
+        "support": 0.333
+      }
+    ]
+  },
+  "97110": {
+    "label": "Therapeutic exercise",
+    "related_icd10": [
+      {
+        "code": "M5416",
+        "label": "Radiculopathy, lumbar region",
+        "support": 0.333
+      },
+      {
+        "code": "G122",
+        "label": "G122",
+        "support": 0.333
+      },
+      {
+        "code": "M797",
+        "label": "Fibromyalgia",
+        "support": 0.333
+      }
+    ]
+  },
+  "99283": {
+    "label": "Emergency department visit moderate severity",
+    "related_icd10": [
+      {
+        "code": "J189",
+        "label": "Pneumonia, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "I214",
+        "label": "Non-ST elevation (NSTEMI) myocardial infarction",
+        "support": 0.333
+      },
+      {
+        "code": "S0990",
+        "label": "S0990",
+        "support": 0.333
+      }
+    ]
+  },
+  "99285": {
+    "label": "Emergency department visit high severity",
+    "related_icd10": [
+      {
+        "code": "A419",
+        "label": "Sepsis, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "I214",
+        "label": "Non-ST elevation (NSTEMI) myocardial infarction",
+        "support": 0.333
+      },
+      {
+        "code": "J9600",
+        "label": "Acute respiratory failure, unsp w hypoxia or hypercapnia",
+        "support": 0.333
+      }
+    ]
+  },
+  "99291": {
+    "label": "Critical care first 30-74 minutes",
+    "related_icd10": [
+      {
+        "code": "A419",
+        "label": "Sepsis, unspecified organism",
+        "support": 0.333
+      },
+      {
+        "code": "J9600",
+        "label": "Acute respiratory failure, unsp w hypoxia or hypercapnia",
+        "support": 0.333
+      },
+      {
+        "code": "I214",
+        "label": "Non-ST elevation (NSTEMI) myocardial infarction",
+        "support": 0.333
+      }
+    ]
+  }
+}
